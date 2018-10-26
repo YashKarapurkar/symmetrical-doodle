@@ -240,8 +240,8 @@ system("cls");
 cout<<"SUPER MARKET";
 cout<<"BILLING";
 cout<<"PROJECT";
-cout<<"\n\nMADE BY : Nehal";
-cout<<"\n\nSCHOOL : N avy children SCHOOL";
+cout<<"\n\nMADE BY : Nehal and Yash";
+cout<<"\n\nSCHOOL : NAVY CHILDTREN SCHOOL";
 getch();
 }
 
